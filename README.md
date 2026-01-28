@@ -5,5 +5,5 @@
 I'm a Computational Neuroscience & ML researcher also interested in ML systems engineering. Right now, my research is focused on drawing insights from cortical vision to design a deep learning model that learns interpretable visual representations.
 
 Other stuff I'm actively exploring:
-* **Understanding Brain Criticality through Neural Dynamics**
-* **Optimizing Deep Learning Compilers**
+* **Neural Dynamics, especially Brain Criticality Theory**
+* **Deep Learning Framework Design & Compiler Optimization**
