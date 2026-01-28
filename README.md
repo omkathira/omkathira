@@ -5,5 +5,5 @@
 
 
 Other stuff I'm actively exploring:
-* **Representation Learning through Neural Dynamics**
+* **Representation Learning (through Neural Dynamics)**
 * **Optimizing Deep Learning Compilers**
