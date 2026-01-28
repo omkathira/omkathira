@@ -4,5 +4,5 @@
 
 Other stuff I'm actively exploring:
 * **Understanding Brain Criticality with Neural Dynamics**
-* **Deep Learning Compilers**
+* **Optimizing Deep Learning Compilers**
 
