@@ -7,5 +7,5 @@ I'm a Computational Neuroscience & ML researcher interested in representation le
 Right now, my research is focused on drawing insights from cortical vision to design deep learning models that learn interpretable visual representations. I also enjoy working on my own deep learning framework (tackling how I should go about designing a Rust-based DL compiler for it at the moment!).
 
 Cool things I'm actively exploring:
-* **Optimizing Compilers for Deep Learning**
+* **Optimizing Deep Learning Compilers**
 * **Neural Dynamics & Brain Criticality Theory**
