@@ -4,7 +4,7 @@
 
 I'm a Computational Neuroscience & ML researcher interested in representation learning and ML systems engineering.
 
-Right now, my research is focused on drawing insights from cortical vision to design a deep learning model that learns interpretable visual representations. I also enjoy working on my own, from-scratch deep learning framework (currently wrapping my head around designing a Rust-based model compilation backend...).
+Right now, my research is focused on drawing insights from cortical vision to design a deep learning model that learns interpretable visual representations. I also enjoy working on my own deep learning framework that I built from scratch (designing a Rust-based DL compiler for it at the moment!).
 
 Other stuff I'm actively exploring:
 * **Deep Learning Framework Design & Compiler Optimization**
