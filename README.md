@@ -6,6 +6,4 @@ I'm a Computational Neuroscience & ML researcher interested in neural representa
 
 Right now, my research is focused on drawing insights from cortical vision to design deep learning models that learn interpretable visual representations. I also enjoy working on my own deep learning framework (building a compiler backend for it at the moment!).
 
-Cool things I'm actively exploring:
-* **Deep Learning Compilers**
-* **Neural Dynamical Systems**
+Other cool things I'm actively exploring are **deep learning compilers** and **neural dynamical systems**.
