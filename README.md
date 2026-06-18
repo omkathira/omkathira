@@ -4,4 +4,4 @@
 <br/>
 I'm a Computational Neuroscience & ML researcher interested in neural representation learning and deep learning compilers.
 
-Right now, my research focuses on analyzing representations learned by deep learning models redesigned as neural dynamical systems. I'm also working on my own deep learning framework (building mini MLIR-based compiler backend for it at the moment)!
+Right now, my research focuses on analyzing representations learned by deep learning models redesigned as neural dynamical systems. I'm also working on my own deep learning framework (building a mini MLIR-based compiler backend for it at the moment)!
