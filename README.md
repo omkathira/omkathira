@@ -6,4 +6,4 @@ I'm a Computational Neuroscience & ML researcher interested in neural representa
 
 Right now, my research focuses on analyzing representations learned by deep learning models redesigned as neural dynamical systems. I'm also working on my own deep learning framework (building a mini MLIR-based compiler backend for it at the moment)!
 
-I'm currently an ML systems engineer working on inference optimization at CogniwareAI.
+I'm currently working as an ML systems engineer on inference optimization at a stealth startup.
