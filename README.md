@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=db4437&width=435&lines=Neural+Computation;Deep+Learning)](https://git.io/typing-svg)
 <br/>
-I'm a research collaborator at CMU interested in neural representation learning and HPC ML systems.
+I'm an ML researcher at CMU interested in neural representation learning and high-performance computing for ML systems.
 
 Right now, my research focuses on analyzing representations learned by deep learning models through the lens of neural dynamical systems. I'm also working on my own deep learning framework (building a mini MLIR-based compiler backend for it at the moment)!
 
