@@ -1,6 +1,6 @@
 # Hi, I'm Om!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=db4437&width=435&lines=Neural+Computation;Deep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=db4437&width=435&lines=ML+Researcher+@+CMU;ML+Systems+Engineer+@+Stealth+Startup)](https://git.io/typing-svg)
 <br/>
 I'm an ML researcher at CMU interested in neural representation learning and high-performance computing for ML systems.
 
